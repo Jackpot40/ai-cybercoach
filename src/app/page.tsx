@@ -33,7 +33,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 style={{ fontSize: '2rem', marginBottom: '1rem' }}>Kickstart Your Cybersecurity Career with Security+</h2>
           <p style={{ fontSize: '1.2rem', lineHeight: 1.6 }}>
-            No experience? No problem. Build a rock-solid foundation with CompTIA Security+ and enter today’s fastest-growing industry.
+            No experience? No problem. Build a rock-solid foundation with CompTIA Security+ and enter today's fastest-growing industry.
           </p>
         </div>
       </section>
