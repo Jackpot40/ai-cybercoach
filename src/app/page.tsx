@@ -33,7 +33,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 style={{ fontSize: '2rem', marginBottom: '1rem' }}>Kickstart Your Cybersecurity Career with Security+</h2>
           <p style={{ fontSize: '1.2rem', lineHeight: 1.6 }}>
-            No experience? No problem. Build a rock-solid foundation with CompTIA Security+ and enter today's fastest-growing industry.
+            No experience? No problem. Build a rock-solid foundation with CompTIA Security+ and enter the fastest growing industry today.
           </p>
         </div>
       </section>
@@ -101,15 +101,15 @@ export default function Home() {
   <div className="max-w-5xl mx-auto grid grid-cols-1 sm:grid-cols-3 gap-6">
     <div className="p-6 bg-white dark:bg-zinc-900 rounded-lg shadow-md">
       <h3 className="text-xl font-bold mb-2">💰 High Salaries</h3>
-      <p>Cybersecurity pro's can start at $70K+ and grow to $250K+ in senior roles. It Pays to Protect.</p>
+      <p>A Cybersecurity pro can start at $70K+ and grow to $250K+ in senior roles. It Pays to Protect.</p>
     </div>
     <div className="p-6 bg-white dark:bg-zinc-900 rounded-lg shadow-md">
       <h3 className="text-xl font-bold mb-2">🔒 Unmatched Job Security</h3>
-      <p>With rising threats and digital expansion, cybersecurity roles aren’t going away anytime soon.</p>
+      <p>With rising threats and digital expansion, cybersecurity roles are not going away anytime soon.</p>
     </div>
     <div className="p-6 bg-white dark:bg-zinc-900 rounded-lg shadow-md">
       <h3 className="text-xl font-bold mb-2">🚀 Fast Career Growth</h3>
-      <p>Whether you're entry-level or a veteran, cybersecurity offers diverse paths to advance quickly.</p>
+      <p>Whether you are entry-level or a veteran, cybersecurity offers diverse paths to advance quickly.</p>
     </div>
   </div>
 </section>
